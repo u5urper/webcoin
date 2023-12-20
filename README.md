@@ -6,7 +6,7 @@ http://www.Webcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 
-Copyright (c) 2011-2023 Webcoin Developer - Kazi Saabique Ahmed    #u5urper
+Copyright (c) 2011-2023 Webcoin Developer - Kazi Saabique Ahmed (u5urper)
 
 What is Webcoin?
 ----------------
