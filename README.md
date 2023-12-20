@@ -1,15 +1,16 @@
 Learncoin integration/staging tree
 ================================
 
-http://www.learncoin.org
+http://www.Webcoin.org
+
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Learncoin Developers
+Copyright (c) 2011-2023 Webcoin Developer - Kazi Saabique Ahmed
 
-What is Learncoin?
+What is Webcoin?
 ----------------
 
-Learncoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Webcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
@@ -18,13 +19,11 @@ The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
-For more information, as well as an immediately useable, binary version of
-the Learncoin client sofware, see http://www.learncoin.org.
 
 License
 -------
 
-Learncoin is released under the terms of the MIT license. See `COPYING` for more
+Webcoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
@@ -45,7 +44,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/altcryptomining/learncoin/tags) are created
+completely stable. [Tags](https://github.com/altcryptomining/webcoin/tags) are created
 regularly to indicate new official, stable release versions of Learncoin.
 
 Testing
@@ -69,5 +68,5 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
     qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
     make -f Makefile.test
-    ./learncoin-qt_test
+    ./webcoin-qt_test
 
