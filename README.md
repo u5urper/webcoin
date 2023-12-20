@@ -1,4 +1,4 @@
-Learncoin integration/staging tree
+Webcoin® integration/staging tree
 ================================
 
 http://www.Webcoin.org
